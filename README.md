@@ -1,1 +1,1 @@
-# rsschool-cv https://99graFF.github.io/rsschool-cv/cv
+https://99graFF.github.io/rsschool-cv/

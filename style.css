@@ -1,0 +1,22 @@
+p {
+    font-size: 20px;
+    font-family: arial;
+    margin-left: 20px;
+}
+.textstyle {
+    font-size: 20px;
+    font-family: arial;
+    padding-bottom: 20px;
+    border-bottom: 3px solid black;
+}
+b {
+    margin: 20px;
+    font-size: 25px;
+    font-family: arial;
+}
+body {
+    background: linear-gradient(90deg, rgba(100,100,100,1) 0%, rgba(110,60,165,0.65) 50%);
+}
+h1 {
+    margin-left: 10px;
+}
